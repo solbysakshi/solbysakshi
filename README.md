@@ -14,7 +14,7 @@
 - 💻 Passionate about **Full Stack Web Development**
 - 🚀 Skilled in building **real-world MERN projects** (Auth, Payments, Cloud Uploads, Dashboards)
 - 📚 Currently preparing for **GATE (CS)** while sharpening my dev skills
-- 🌱 Currently learning **Backend Optimization & System Design**
+- 🌱 Currently learning **Backend Optimization**
 - 🎯 Goal: To become a **Product-Ready Developer** for startups or top companies
 
 ---
@@ -52,8 +52,8 @@
 
 **Tech Used:** React, Node.js, Express, MongoDB, Cloudinary, Razorpay, TailwindCSS
 
-🔗 **Live Demo:** [your-live-link-here]  
-💻 **Source Code:** [your-github-repo-link-here]
+🔗 **Live Demo:** [https://mern-appointmentbooking-frontend.onrender.com/]  
+💻 **Source Code:** [https://github.com/solbysakshi/MERN-AppointmentBooking]
 
 ---
 
@@ -67,20 +67,21 @@
 
 ### 🧮 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solbysakshi&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sakshi-singh-ba8697237/" target="_blank">
+
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="sakshi20cs24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/solbysakshi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
