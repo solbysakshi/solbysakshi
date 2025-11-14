@@ -9,7 +9,8 @@
 
 ---
 ### 👀 Profile Views  
-![Visitor Count](https://visitcount.itsvg.in/api?id=solbysakshi&label=Profile%20Views&color=1&icon=5&pretty=true)
+![Visitors](https://komarev.com/ghpvc/?username=solbysakshi&color=blue)
+
 
 ### 🌟 About Me
 - 🎓 I'm a **2024 B.Tech Computer Science Graduate**
